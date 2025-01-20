@@ -1,0 +1,16 @@
+button {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+}
+
+#buttons {
+    margin: 11px 0;
+}
+
+#buttons button {
+    padding: 5px;
+    border: solid 1px black;
+    font-weight: bold;
+    color: var(--color-main-1);
+    background-color: var(--color-main-2);
+}
